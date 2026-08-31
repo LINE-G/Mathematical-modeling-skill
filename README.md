@@ -7,7 +7,8 @@
   <a href="./README-zh.md">简体中文</a> ·
   <a href="./CLAUDE.md">Project Rules</a> ·
   <a href="./Initial%20Prompt.md">Initial Prompt</a> ·
-  <a href="mailto:zjzhang0424@gmail.com">📧 Contact</a>
+  <a href="mailto:zjzhang0424@gmail.com">📧 Contact</a> ·
+  <a href="./docs/usage-guide-zh.md">使用说明</a>
 </p>
 
 <p align="center">
@@ -149,8 +150,8 @@ This repository is packaged as a native plugin for both **Claude Code** and **Co
 ### One-command native plugin install (recommended)
 
 ```bash
-git clone https://github.com/zhnnky329/MathModeling-skills.git
-cd MathModeling-skills
+git clone https://github.com/LINE-G/Mathematical-modeling-skill.git
+cd Mathematical-modeling-skill
 ./install.sh
 ```
 
@@ -186,7 +187,7 @@ Use `--dry-run` with any command to inspect mutations first. Run `./install.sh -
 ### Updating later
 
 ```bash
-cd MathModeling-skills
+cd Mathematical-modeling-skill
 git pull
 ./install.sh
 ```

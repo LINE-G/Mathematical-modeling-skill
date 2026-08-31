@@ -6,8 +6,8 @@
     "name": "Zhijun Zhang",
     "url": "https://github.com/zhnnky329"
   },
-  "homepage": "https://github.com/zhnnky329/MathModeling-skills",
-  "repository": "https://github.com/zhnnky329/MathModeling-skills",
+  "homepage": "https://github.com/LINE-G/Mathematical-modeling-skill",
+  "repository": "https://github.com/LINE-G/Mathematical-modeling-skill",
   "license": "MIT",
   "keywords": [
     "mathematical-modeling",
@@ -27,7 +27,7 @@
       "Analysis",
       "Write"
     ],
-    "websiteURL": "https://github.com/zhnnky329/MathModeling-skills",
+    "websiteURL": "https://github.com/LINE-G/Mathematical-modeling-skill",
     "defaultPrompt": [
       "Frame this modeling problem and route the next workflow gate.",
       "Audit this modeling workspace and identify the next action.",

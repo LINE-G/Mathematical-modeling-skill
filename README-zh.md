@@ -6,7 +6,8 @@
   <a href="./README-zh.md"><b>简体中文</b></a> ·
   <a href="./CLAUDE.md">项目规则</a> ·
   <a href="./Initial%20Prompt-zh.md">Initial Prompt</a> ·
-  <a href="mailto:zjzhang0424@gmail.com">📧 联系方式</a>
+  <a href="mailto:zjzhang0424@gmail.com">📧 联系方式</a> ·
+  <a href="./docs/usage-guide-zh.md">使用说明</a>
 </p>
 
 
@@ -158,8 +159,8 @@ workflow-orchestrator（读取 interaction_mode + rigor_profile）
 ### 一键安装原生插件（推荐）
 
 ```bash
-git clone https://github.com/zhnnky329/MathModeling-skills.git
-cd MathModeling-skills
+git clone https://github.com/LINE-G/Mathematical-modeling-skill.git
+cd Mathematical-modeling-skill
 ./install.sh
 ```
 
@@ -195,7 +196,7 @@ Claude 支持 `user`、`project`、`local` 三种 scope。Codex 目前通过已�
 ### 后续更新
 
 ```bash
-cd MathModeling-skills
+cd Mathematical-modeling-skill
 git pull
 ./install.sh
 ```
@@ -278,6 +279,7 @@ project/
 - [AGENTS.md](AGENTS.md) — 同一套规则的 Codex 版本。
 - [docs/implementation-targets.md](docs/implementation-targets.md) — 选 `python` 还是 `matlab`。
 - [docs/matlab-beita-tianyuan-guidelines.md](docs/matlab-beita-tianyuan-guidelines.md) — 如何让 MATLAB 代码在比赛环境中正常运行。
+- [docs/usage-guide-zh.md](docs/usage-guide-zh.md) — 面向新用户的完整安装、工作流和提交前使用说明。
 - 单个 skill：[.claude/skills/](.claude/skills/) · [.codex/skills/](.codex/skills/)。
 
 ## 联系方式
